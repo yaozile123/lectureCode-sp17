@@ -12,7 +12,7 @@
  size: The number of items in the list should be size.
 */
 
-public class AList {
+public class AList1 {
     private int[] items;
     private int size;
 
